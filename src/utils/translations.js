@@ -49,4 +49,14 @@ export const translations = {
         emotionalState: "情绪状态",
         secureLogs: "安全日志",
     },
+    "pt-BR": {
+        welcome: "Bem-vindo ao NeuroPsych AI",
+        dashboard: "Painel de Controle",
+        chatbot: "Chatbot de IA",
+        profile: "Perfil",
+        login: "Entrar",
+        register: "Cadastrar",
+        emotionalState: "Estado Emocional",
+        secureLogs: "Registros Seguros",
+    },
 };

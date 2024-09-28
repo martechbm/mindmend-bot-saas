@@ -8,6 +8,7 @@ const languages = [
     { code: 'fr', name: 'Français' },
     { code: 'de', name: 'Deutsch' },
     { code: 'zh', name: '中文' },
+    { code: 'pt-BR', name: 'Português (Brasil)' },
 ];
 
 const LanguageSelector = () => {
